@@ -184,15 +184,14 @@ I want to disappear that by using of the Atomic Habits approach:
 ##### Make it Unattractive
 * Remind yourself of the negative effects (wasted time, less sleep, more stress).
 
-* Replace it with a more meaningful alternative (like calling a friend or journaling).
+* Replace it with a more meaningful alternative (like calling a friend).
 
 ##### Make it Difficult
-* Use an app blocker (e.g., Freedom, Forest, or Digital Wellbeing).
+* Use an app blocker or timmer.
 
 * Log out every time so you have to manually enter the password.
 
 
 ##### Make it Unsatisfying
-* Use accountability: Tell a friend or coach about your goal.
 
-* Set up a consequence: e.g., if you scroll for more than 10 minutes, you donate money to a cause you don’t like.
+* Set up a consequence: e.g., if you scroll for more than 10 minutes, you donate money then you don't like scrolling.
